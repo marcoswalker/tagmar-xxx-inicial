@@ -1,0 +1,257 @@
+{"name":"OBJETOS MAGICOS","type":"Item","sort":null,"flags":{},"parent":"MckZjmv0HCpTMzRa","sorting":"a","color":"#000000","_id":"0CpQk5H94Zqbikhf"}
+{"name":"SEVIDES-LIRIS-QUIRIS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"0aWQYEbfdXWMzUQF"}
+{"name":"LANÇA DE ETER","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"0cSRJVsbc7hUr4Tr"}
+{"_id":"13LmLovBRA3f3uLv","name":"BASICA","type":"Item","sort":100000,"flags":{},"parent":"PhaPP0zjdh1ko6jN","sorting":"a","color":"#e6d600"}
+{"name":"CONFRARIA DOS ARTISTAS  ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"6qQK2euDg5R8klJ8","sorting":"a","color":"#000000","_id":"1YvyhWRRN95Sn2wp"}
+{"name":"MISCELÃNEAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"1ae5zz074YR9a1rq"}
+{"name":"LAMINA DE LUZ","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"1jDFmNovFgwvgedl"}
+{"name":"CONFRARIA DOS ERUDITOS  ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"6qQK2euDg5R8klJ8","sorting":"a","color":"#000000","_id":"1tj4YCcjakV43bLS"}
+{"name":"CONFRARIA DOS ARTISTAS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"CGllkDtZ2jF14F9u","sorting":"a","color":"#000000","_id":"2MaOOMmoAQtd3Nrw"}
+{"name":"ORDEM DE BLATOR","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"2fHnFxNeF8yLLumn"}
+{"_id":"2nZiz4jYb86W0Sd0","name":"MAGIAS DE CURA","type":"Item","sort":400000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#0b3300"}
+{"name":"CRUINE ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"34xwPt7rhfpRhIH3"}
+{"_id":"3CCIFydo8a9HHOR9","name":"BARDOS","type":"Item","sort":100000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#c7c7c7"}
+{"name":"PROFISSIONAL","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"3V3KZODfznqVZFnI"}
+{"name":"CRIATURAS DE DARTEL","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"3wc8stmMB41GKlBS"}
+{"name":"VENENOS","type":"Item","sort":null,"flags":{},"parent":"V5JoHuRzoeM4rBqm","sorting":"a","color":"#f06800","_id":"5IHnqcGj9BqmXyHn"}
+{"_id":"5gpg98nRcT143OoM","name":"GRUPO DE ARMAS","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#026100"}
+{"name":"GUILDA DOS LADÕRES","type":"Item","sort":null,"flags":{},"parent":"z74jV7ewNxinDOiP","sorting":"a","color":"#e6d600","_id":"5xMiauDbWIb4kzPV"}
+{"name":"ORDEM DE CRUINE","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"6R6lRfqxiXpvIOsU"}
+{"_id":"6qQK2euDg5R8klJ8","name":"BARDOS","type":"Item","sort":100000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#292929"}
+{"_id":"6tPUYPa9a3E52FIV","name":"RASTREADORES","type":"Item","sort":250000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#787878"}
+{"name":"FEIXES INCANDESCENTES","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"735cLlM4HZ7x8vLi"}
+{"name":"IMOLAÇÃO","type":"Item","sort":null,"flags":{},"parent":"YFWBVLuckBwHVGRL","sorting":"a","color":"#858585","_id":"7GpbIo3dlRnysoXo"}
+{"name":"BASICAS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"6tPUYPa9a3E52FIV","sorting":"a","color":"#000000","_id":"7rt9ZGuYRF6NOvbE"}
+{"name":"MANIPULAÇÃO INFERNAL","type":"Item","sort":null,"flags":{},"parent":"YFWBVLuckBwHVGRL","sorting":"a","color":"#858585","_id":"8SsKywsWp2ek81Co"}
+{"name":"ATAQUE INFERNAL","type":"Item","sort":null,"flags":{},"parent":"YFWBVLuckBwHVGRL","sorting":"a","color":"#858585","_id":"8bK48XefBuQu1HNm"}
+{"name":"PUTREFAÇÃO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"8siB4qq4mHlyZID4"}
+{"name":"CONFRARIA DOS ERUDITOS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"CGllkDtZ2jF14F9u","sorting":"a","color":"#000000","_id":"9jsDfzK4jNwRc7Te"}
+{"name":"BAR, MAG,RAS  e SAC","type":"Item","sort":null,"flags":{},"parent":"pyOdKbarOmoCnBeJ","sorting":"a","color":"#e6d600","_id":"A7LM3vmoTBqSmOOy"}
+{"name":"ARMADURA NATURAL","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"AAaBfgvTzKwxwYaT"}
+{"name":"CONFRARIA DOS ARAUTOS","type":"Item","sort":null,"flags":{},"parent":"3CCIFydo8a9HHOR9","sorting":"a","color":"#333333","_id":"AFEkPmWybMLa1gxt"}
+{"name":"FLECHA DIVINA","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"AXEBlwMefhZJtOkh"}
+{"_id":"AfPcbRkY9lKebgbq","name":"CRIANDO CRIATURAS","type":"Item","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":"#3c2020"}
+{"name":"PmA","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"Ah0vVEcYSm0rslwD"}
+{"_id":"Ak4uVwhSnBPF67QW","name":"SACERDOTE","type":"Item","sort":275000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#787878"}
+{"name":"ORDEM DE SELIMMOM","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"B7Odr1CZ7GzObC8y"}
+{"name":"RAÇAS SELVAGENS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"B9sh4g7c4SbAjthn"}
+{"name":"CONFRARIA DOS ARAUTOS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"6qQK2euDg5R8klJ8","sorting":"a","color":"#000000","_id":"BhQc7q6UpLOesqRM"}
+{"name":"TRILHA DOS CAÇADORES PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"6tPUYPa9a3E52FIV","sorting":"a","color":"#000000","_id":"Bio1sdqQoYZGTlcW"}
+{"_id":"CGllkDtZ2jF14F9u","name":"BARDOS","type":"Item","sort":100000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#787878"}
+{"name":"COLEGIO CONHECIMENTO PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"Cj9ShBuH1KTjSqmw"}
+{"_id":"D0ehnILBEW2ffmjE","name":"HABILIDADES","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#4d4d4d"}
+{"_id":"DUVPDzelgun2R5bx","name":"PROTEÇÃO MAGICA","type":"Item","sort":500000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#0b3300"}
+{"name":"SEVIDES -LIRIS-QUIRIS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"DWCBYxkx34xcz5JW"}
+{"name":"OLEOS","type":"Item","sort":null,"flags":{},"parent":"FY6DIvOW0LsC7IVN","sorting":"a","color":"#00b8b5","_id":"DXGM0Cb7GncYGuH8"}
+{"name":"CONFRARIA DOS ARAUTOS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"CGllkDtZ2jF14F9u","sorting":"a","color":"#000000","_id":"DaYZSpHU6AXmwgFD"}
+{"_id":"DkuPIdhduBhG9c72","name":"PERTENCES E AFINS","type":"Item","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#940088"}
+{"_id":"E2eoX1YXRJqx0LFi","name":"PROTEÇÃO MAGICA","type":"Item","sort":350000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#0b3300"}
+{"name":"CURAS HEROICAS","type":"Item","sort":null,"flags":{},"parent":"2nZiz4jYb86W0Sd0","sorting":"a","color":"#858585","_id":"E5VF0tp2DCcjlP0Z"}
+{"name":"LISTA DE ARQUETIPOS","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#000000","_id":"EATCAXGfwJCTZZUf"}
+{"name":"BASICA PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"CGllkDtZ2jF14F9u","sorting":"a","color":"#000000","_id":"EU0FGNZzixrnFGUj"}
+{"name":"INFLUÊNCIA","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"EosHNFVTkcbjoEwP"}
+{"name":"PODERES NATOS","type":"Item","sort":null,"flags":{},"parent":"AfPcbRkY9lKebgbq","sorting":"a","color":"#3c2020","_id":"EsE2C8BkfuSjyGY1"}
+{"name":"ANIQUILAÇÃO","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"F79W9YBPw2E7KmfY"}
+{"name":"CRIATURAS VEGETAIS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"FTsYPSZvkZk6jXf6"}
+{"_id":"FY6DIvOW0LsC7IVN","name":"POÇÕES, OLEOS E ELIXIRES","type":"Item","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"#008a87"}
+{"name":"LICANTROPIA LUPINA","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"FeXBywEgYvLad93Y"}
+{"_id":"FiFEq0rBcpVNyv0Y","name":"PROFISSÕES","type":"Item","sort":50000,"flags":{},"parent":null,"sorting":"a","color":"#510094"}
+{"name":"PALIER ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"GAjWCFvp8HalvcTi"}
+{"name":"CATACLISMA","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"GpUf9DiyJT0XN6Sb"}
+{"name":"GERAL","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"GxNigejUHchSJLf1"}
+{"name":"ORDEM DE GANIS","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"H1qNuRZD5IQTxp9C"}
+{"name":"ARMAS MAGICAS","type":"Item","sort":null,"flags":{},"parent":"MckZjmv0HCpTMzRa","sorting":"a","color":"#000000","_id":"H3k7VlwY07ozMTK9"}
+{"name":"CpE","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"H5xb8GldR9WpIQqJ"}
+{"_id":"HFjHTQl8Xchh9Br8","name":"RASTREADOR","type":"Item","sort":250000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#c7c7c7"}
+{"name":"BASICA","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"HkkKwgTERmAplTG1"}
+{"name":"LIVRO DE CRIATURAS","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Hvnj30QK6ILeMFbu"}
+{"name":"BLATOR PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"ICxG2rEX9ND9VmfS"}
+{"_id":"IF1MBnoCyMNDpQwL","name":"MAGIAS ANCESTRAIS","type":"Item","sort":600000,"flags":{},"parent":null,"sorting":"m","color":"#292929"}
+{"name":"CRUINE PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"IXmdlkcLLTeHtvKa"}
+{"_id":"ImliKP7AaqgKcCq5","name":"MAGIAS EXTRA OFICIAIS","type":"Item","sort":400000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#787878"}
+{"name":"COLEGIO ELEMENTAL ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"ItV3e5ME4NKmUi7D"}
+{"name":"PAROM PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"J2mbToRu9MOYzgEv"}
+{"name":"CL","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"J8bqcSmdd3D2bcNq"}
+{"name":"ORDEM DE  CAMBU","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"JAROrDXAsQRfEP4m"}
+{"name":"CI","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"JMb1VHfR05U8rLVR"}
+{"name":"CRIATURAS MISTICAS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"JYVM46y0DGEg5ExI"}
+{"name":"CmM","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"JbrQDG0qztMQbbYc"}
+{"name":"COLÉGIO NATURALISTA","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"JvywGq38cHemp2VC"}
+{"name":"TRANSPORTES","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"K0w40ycqGT5AzhxS"}
+{"name":"ARMADURAS","type":"Item","sort":null,"flags":{},"parent":"jHQCRUNMd1Tfhlqf","sorting":"a","color":"#0104b7","_id":"K4bgjW47OvRDOPsv"}
+{"name":"BASICAS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"6qQK2euDg5R8klJ8","sorting":"a","color":"#000000","_id":"K6GFPsNCnv6Z25sS"}
+{"name":"ORDEM DE CREZIR","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"K9ZzOJlXl2MD8AUk"}
+{"name":"PELE DE ARVORE","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"KYgsj4Gnmi82Rut9"}
+{"name":"ELMOS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"KoOqM30TVBwaXOo6"}
+{"name":"COLEGIO NATURISTA ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"KspE4zKLQmriZqr2"}
+{"name":"MAIRA ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"LKLHoQKjDGuIaRAE"}
+{"name":"VESTIMENTAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"LmahtMY4gvGDoh5E"}
+{"name":"BASTÃO DE LUZ","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"LuuVX9Fl5D16t0K9"}
+{"_id":"M0EGVx5WDlKixuqc","name":"SACERDOTE","type":"Item","sort":350000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#292929"}
+{"name":"CONFRARIA DOS ARTISTAS","type":"Item","sort":null,"flags":{},"parent":"3CCIFydo8a9HHOR9","sorting":"a","color":"#333333","_id":"MJJDMhEve5jbrkUb"}
+{"name":"ARMA DE GANIS","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"MYN3tLHMctIEv57f"}
+{"_id":"MckZjmv0HCpTMzRa","name":"ITENS MAGICOS","type":"Item","sort":1350000,"flags":{},"parent":null,"sorting":"a","color":"#000000"}
+{"name":"BASICAS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"MhBEmOYY44To1SDd"}
+{"name":"BASICAS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"MkZu8sG0l2pna0cR"}
+{"name":"CREZIR PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"Mo1zKP20yrT0tHs6"}
+{"name":"TOQUE GELIDO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"NcGOvv1QZXKigDtu"}
+{"name":"COLEGIO ALQUIMICO PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"O1yVp88YrduDPy3k"}
+{"name":"PP","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"O2W5f9tl8MhOp2Dv"}
+{"name":"COLÉGIO ELEMENTAL","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"OFDejce3SPf5wD6H"}
+{"name":"BASICA","type":"Item","sort":null,"flags":{},"parent":"z74jV7ewNxinDOiP","sorting":"a","color":"#e6d600","_id":"OMHc8wjXiIty2o6z"}
+{"_id":"OWUcnXauwIkIwACx","name":"RASTREADOR","type":"Item","sort":325000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#292929"}
+{"name":"LENA PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"OwoJfFMhswsb1p25"}
+{"name":"ELIXIRES","type":"Item","sort":null,"flags":{},"parent":"FY6DIvOW0LsC7IVN","sorting":"a","color":"#00b8b5","_id":"P3OOcKgYzjBwr244"}
+{"name":"CD","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"P6WXHSAdbklqzRr8"}
+{"name":"TRILHA DOS GUARDIOES ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"OWUcnXauwIkIwACx","sorting":"a","color":"#000000","_id":"PUdYrI2Y0CkRWI5p"}
+{"name":"SEKBETS","type":"Item","sort":null,"flags":{},"parent":"kGr063wswgVnB1um","sorting":"a","color":"#004202","_id":"PVjSVAqIxgxgYuLb"}
+{"_id":"PWbiKk1qi6pkK6VN","name":"MAGOS","type":"Item","sort":300000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#292929"}
+{"_id":"PhaPP0zjdh1ko6jN","name":"GUERREIRO","type":"Item","sort":1500000,"flags":{},"parent":"pyOdKbarOmoCnBeJ","sorting":"m","color":"#e6d600"}
+{"name":"RUIDO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"QAFz3RbjV6LvK6D2"}
+{"name":"INSTRUMENTOS MUSICAIS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"QNrZjwYyZBEIKIGF"}
+{"name":"COLEGIO ILUSIONISTA PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"QwnibohHGb6Zt28M"}
+{"name":"PROTEÇÃO ANIMAL","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"R9c6uqtjT9MHQqWD"}
+{"name":"PAROM ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"RQpzdnyy1IMznWwR"}
+{"name":"RAIO SAGRADO","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"RSMvfFu6PSlXaIUB"}
+{"name":"PALIER PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"RhzkKcEggqUFB5s9"}
+{"name":"MONTROS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"RqYYnlvUzEQ3sX54"}
+{"_id":"S2xv9WBCcVgAwDjQ","name":"MAGIAS DE ATAQUE","type":"Item","sort":300000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#0b3300"}
+{"name":"BLATOR ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"S93yx7JeOEtXGqi2"}
+{"name":"DARDOS DE GELO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"SciHxWxyuL1wsJSe"}
+{"name":"TRILHA DOS CAÇADORES","type":"Item","sort":null,"flags":{},"parent":"HFjHTQl8Xchh9Br8","sorting":"a","color":"#141414","_id":"Sk6iRg9bCwV0j49l"}
+{"name":"CREZIR ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"SvnYAKBV7OSGUxds"}
+{"name":"ESCUDOS","type":"Item","sort":null,"flags":{},"parent":"jHQCRUNMd1Tfhlqf","sorting":"a","color":"#0104b7","_id":"SyHkYuvLNPTUN0oP"}
+{"name":"ORDEM DE PALIER","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"T4KwrfSo87I93D0K"}
+{"name":"PASTILHAS","type":"Item","sort":null,"flags":{},"parent":"FY6DIvOW0LsC7IVN","sorting":"a","color":"#00b8b5","_id":"TudvlpvItcAARsgN"}
+{"name":"ARMA DE PLATINA","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"UZISoZghjmZewbS0"}
+{"name":"RAIO ELÉTRICO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"UZc7FddC4DqXNZ6z"}
+{"name":"CRIATURAS INFERNAIS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"Uo7jFZD1aPkV7KbB"}
+{"name":"DIVINDADES NATURAIS","type":"Item","sort":null,"flags":{},"parent":"E2eoX1YXRJqx0LFi","sorting":"a","color":"#858585","_id":"UuZEsVtk8S7AX0Ud"}
+{"name":"ORDEM DE LENA","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"Uux6G0Q7sMRbW2X9"}
+{"_id":"V5JoHuRzoeM4rBqm","name":"VENENOS E DROGAS","type":"Item","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":"#bd5200"}
+{"name":"TRILHA DOS GUARDIÕES","type":"Item","sort":null,"flags":{},"parent":"HFjHTQl8Xchh9Br8","sorting":"a","color":"#141414","_id":"WAO2mSa4tcvxlixg"}
+{"name":"BASICAS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"WBzCZbzdsjtbaH0x"}
+{"name":"ELMOS","type":"Item","sort":null,"flags":{},"parent":"jHQCRUNMd1Tfhlqf","sorting":"a","color":"#0104b7","_id":"WmGqXWpaSdfY0bec"}
+{"name":"DEFESA DAS CRIATURAS","type":"Item","sort":null,"flags":{},"parent":"AfPcbRkY9lKebgbq","sorting":"a","color":"#3c2020","_id":"WsK7DtPeftGeLw8R"}
+{"name":"BASICA","type":"Item","sort":null,"flags":{},"parent":"HFjHTQl8Xchh9Br8","sorting":"a","color":"#141414","_id":"WuyNYZfuxeKMCtRd"}
+{"name":"TOQUE ACIDO","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"XJ49IbXZ7XMmtjyZ"}
+{"name":"GEOPROTEÇÃO","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"XTF72744XM4iGa5p"}
+{"name":"CONFRARIA DOS ERUDITOS","type":"Item","sort":null,"flags":{},"parent":"3CCIFydo8a9HHOR9","sorting":"a","color":"#333333","_id":"XZSYdFyDl6yUsJiD"}
+{"name":"PROTEÇÃO NATURAL","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"XasTRVr9rOtwhkzB"}
+{"name":"ARMADURA / ELMO / ESCUDO MAGICO","type":"Item","sort":null,"flags":{},"parent":"MckZjmv0HCpTMzRa","sorting":"a","color":"#000000","_id":"Xp4Of5Hdh5bRZ5rM"}
+{"name":"ANIMAIS GIGANTES","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"XqCEUV0rIPcBVEx9"}
+{"_id":"YFWBVLuckBwHVGRL","name":"MAGIAS DE ATAQUE","type":"Item","sort":500000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#0b3300"}
+{"name":"BASICAS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"YM4XyWghwyyoV6kQ"}
+{"name":"COLEGIO ELEMENTAL PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"YWT1AmckWztBGpQi"}
+{"name":"ONDA DESTRUTIVA","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"Ylu5qKPALqyFsuEo"}
+{"name":"ESCUDOS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"YtohnFbvZW2IO4r0"}
+{"name":"GUILDA DOS PIRATAS","type":"Item","sort":null,"flags":{},"parent":"z74jV7ewNxinDOiP","sorting":"a","color":"#e6d600","_id":"ZIC5TnRenyv46KZV"}
+{"name":"GUILDA DOS ASSASSINOS","type":"Item","sort":null,"flags":{},"parent":"z74jV7ewNxinDOiP","sorting":"a","color":"#e6d600","_id":"ZMTcJvurdZCkjCKh"}
+{"name":"PODERES ESPECIAIS","type":"Item","sort":null,"flags":{},"parent":"AfPcbRkY9lKebgbq","sorting":"a","color":"#3c2020","_id":"ZTtgakkD1csILGcK"}
+{"name":"COLEGIO ILUSIONISTA ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"a2ktoPcprlMEzg1w"}
+{"name":"HALITO FLAMEJANTE","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"aUqp50IBt9cGdrZd"}
+{"_id":"aV4yMDRJFRHLEVHg","name":"MAGIAS","type":"Item","sort":500000,"flags":{},"parent":null,"sorting":"m","color":"#c7c7c7"}
+{"name":"TRILHA DOS CAÇADORES ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"OWUcnXauwIkIwACx","sorting":"a","color":"#000000","_id":"b0Dxxl1ZJLasouK2"}
+{"name":"CAMBU ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"b4llCimcDyPH6ZfU"}
+{"name":"TECNICAS ESPECIAIS","type":"Item","sort":null,"flags":{},"parent":"AfPcbRkY9lKebgbq","sorting":"a","color":"#3c2020","_id":"briUzatlw3akUPR1"}
+{"name":"ORDEM DE PLANDIS","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"c1h5CWhMsuy6i1ie"}
+{"name":"MORTOS VIVOS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"cBpiqkHytJqeJap1"}
+{"name":"ARMADURAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"cDFj37E4HFDPouJ9"}
+{"name":"ORDEM DE PAROM","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"cTSErAaPSyLzYeNO"}
+{"name":"JOIAS E VESTIMENTAS","type":"Item","sort":null,"flags":{},"parent":"MckZjmv0HCpTMzRa","sorting":"a","color":"#000000","_id":"cVDN4L6Psu0gfz3k"}
+{"name":"ARMA FLAMEJANTE","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"cYEvacULsDQpfTcC"}
+{"name":"ANIMAIS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"cbtjngFPiP4we7Pl"}
+{"name":"PmL","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"ckhbye4eyIOxM7Yi"}
+{"name":"RELAMPAGOS","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"cp1rPnRlyTNkpN4p"}
+{"name":"POÇÕES","type":"Item","sort":null,"flags":{},"parent":"FY6DIvOW0LsC7IVN","sorting":"a","color":"#00b8b5","_id":"cq4CFgEWKlUbp7K6"}
+{"name":"CLD","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"cr1T0Dp2CdheIwyF"}
+{"name":"UNGUENTOS","type":"Item","sort":null,"flags":{},"parent":"FY6DIvOW0LsC7IVN","sorting":"a","color":"#00b8b5","_id":"cv5KbP6waF73UajK"}
+{"name":"GEMAS E PEDRAS PRECIOSAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"cx9rU069xQu2mrF1"}
+{"name":"COLÉGIO NECROMÂNTICO","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"d3cTo77TxOruPMvC"}
+{"name":"TRILHA DOS EXPLORADORES","type":"Item","sort":null,"flags":{},"parent":"HFjHTQl8Xchh9Br8","sorting":"a","color":"#141414","_id":"dAO6lMppzpJqPGRh"}
+{"name":"GANIS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"dvZo2b3dKra9kZfC"}
+{"name":"CONFRARIA DOS ENCANTADORES","type":"Item","sort":null,"flags":{},"parent":"3CCIFydo8a9HHOR9","sorting":"a","color":"#333333","_id":"e26Mv72NfLzyO808"}
+{"name":"CUSPIR PROJETEIS","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"eJMU7V4CrVrCXp1B"}
+{"name":"EM","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"eUzovSzopp6YyPxa"}
+{"name":"TRILHA DOS GUARDIOES PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"6tPUYPa9a3E52FIV","sorting":"a","color":"#000000","_id":"evJlDky0QiIBbU5P"}
+{"_id":"f5riXJGVo13afNBr","name":"ACADEMIA DOS GLADIADORES","type":"Item","sort":500000,"flags":{},"parent":"PhaPP0zjdh1ko6jN","sorting":"a","color":"#e6d600"}
+{"_id":"fBFbKzOaJJXvFBCA","name":"MAGOS","type":"Item","sort":200000,"flags":{},"parent":"i5Iuru808JpGSVdk","sorting":"a","color":"#787878"}
+{"_id":"gQ1QYvDWH3sCx1Ct","name":"ACADEMIA DE INFANTARIA","type":"Item","sort":400000,"flags":{},"parent":"PhaPP0zjdh1ko6jN","sorting":"a","color":"#e6d600"}
+{"name":"SELIMOM ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"gkQ88HxrrWr9Z1sl"}
+{"name":"CRIZAGOM ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"gnkWpeB9oYQbNQo6"}
+{"_id":"gotcHTwSWUPjCvGK","name":"MAGIAS EXTRA OFICIAIS","type":"Item","sort":550000,"flags":{},"parent":"IF1MBnoCyMNDpQwL","sorting":"a","color":"#292929"}
+{"name":"LICANTROPOS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"grvGOiogz9hIDnUP"}
+{"_id":"i5Iuru808JpGSVdk","name":"MAGIAS PERDIDAS","type":"Item","sort":700000,"flags":{},"parent":null,"sorting":"m","color":"#787878"}
+{"name":"FOGO DIVINO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"i63iTxfne4d3jJ0y"}
+{"name":"DIVINDADES NATURAIS","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"ijoxyf9FtEwB8aNV"}
+{"name":"DRAGÕES","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"ivQ4tFEMp6zeVZPy"}
+{"name":"PROTEÇÃO VEGETAL","type":"Item","sort":null,"flags":{},"parent":"DUVPDzelgun2R5bx","sorting":"a","color":"#858585","_id":"j3i7RRbkp8RzKHa0"}
+{"name":"CRIATURAS DIVINAS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"j3wdQ6mfglqGk0VY"}
+{"name":"HIDRAS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"jFfEsi4emSRuHnF1"}
+{"_id":"jHQCRUNMd1Tfhlqf","name":"ARMADURAS/ELMOS/ESCUDOS","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#00027a"}
+{"name":"BASICAS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"OWUcnXauwIkIwACx","sorting":"a","color":"#000000","_id":"jSW9Gu9b3BIlTYwQ"}
+{"name":"EP","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"jkzzWj3cs40vIEIa"}
+{"name":"DRAGÕES IMPERIAIS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"jlFochQEFM1R5Ac3"}
+{"name":"ARMADILHA NATURAL","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"joT20wNlCrC0Cv97"}
+{"name":"ORDEM DE MAIRA","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"k2ioYQv7CcCrq2qJ"}
+{"name":"ARMAS NATURAIS","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#0b3300","_id":"kGr063wswgVnB1um"}
+{"name":"COLEGIO NECROMANTICO ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"kjpGB1wa4k1pIJkv"}
+{"name":"ELEMENTAIS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"m1yomrlmy6ta2CZF"}
+{"name":"ENERGIA PRIMORDIAL","type":"Item","sort":null,"flags":{},"parent":"YFWBVLuckBwHVGRL","sorting":"a","color":"#858585","_id":"m5b2YWBeIgdM35ip"}
+{"name":"GANIS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"n1E41trPSqDXAt9c"}
+{"name":"CmE","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"n6qrAoLlQUNTiTrE"}
+{"name":"CETROS E CAJADOS","type":"Item","sort":null,"flags":{},"parent":"MckZjmv0HCpTMzRa","sorting":"a","color":"#000000","_id":"n7HPjYC2FsNXd8tm"}
+{"name":"COMBATE COM ESCUDO","type":"Item","sort":null,"flags":{},"parent":"q8PhLm3uHLaeVOEg","sorting":"a","color":"#8f8a00","_id":"nY7PQpNJoj28Lf42"}
+{"name":"MANOBRA","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"oRuRJWg9ZCHCOB4Z"}
+{"name":"ENERGIA INFERNAL","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"p04iEpKdm8F37E67"}
+{"_id":"pNyzZRXwSldtWXod","name":"RAÇAS","type":"Item","sort":0,"flags":{},"parent":null,"sorting":"a","color":"#8f0000"}
+{"_id":"pyOdKbarOmoCnBeJ","name":"TÉCNICAS DE COMBATE","type":"Item","sort":250000,"flags":{},"parent":null,"sorting":"a","color":"#ada200"}
+{"name":"PLANDIS PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"q1EcUITeUw2sBjHq"}
+{"name":"ARMAS DE TÉCNICA DE COMBATE","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#0b3300","_id":"q8PhLm3uHLaeVOEg"}
+{"name":"METEOROS","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"qBQdc0Pm8VDE6yBu"}
+{"name":"MATERIAL PROFISSIONAL","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"qBZ9bj1izyRu0mic"}
+{"name":"BASICA","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"qCdLecNhdIRHQrz4"}
+{"name":"COLÉGIO ALQUÍMICO","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"qKOLgw8Wq2rAELnt"}
+{"name":"EXPLOSÃO MISTICA","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"qQlzZSMXJIZtVUww"}
+{"name":"SUBTERFÚGIO","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"qUTHjX0lTqTs9uyd"}
+{"name":"ESFERAS DO PRIMORDIO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"qxHeo0zOoBiXMh2g"}
+{"name":"BOLA E FOGO","type":"Item","sort":null,"flags":{},"parent":"tSEAqj6Qbvgskluz","sorting":"a","color":"#858585","_id":"r4c78bQW5Z5PL8c5"}
+{"name":"COLÉGIO ILUSÕES","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"rHqzVsp66MclANtu"}
+{"name":"PpB","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"rQgM7n6cmPBVM20F"}
+{"name":"EL","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"rg2IwbXD5FQC2u6w"}
+{"name":"CpM","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"sLBWXVfOajuVeuHd"}
+{"name":"ATAQUE TELECINÉTICO","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"sT4vpMO4Cnj4RKul"}
+{"name":"ANIMAIS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"srXKRvtDALzbd9hj"}
+{"name":"COLEGIO NECROMANTICO PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"swgLfSBFKlQBh1pj"}
+{"name":"SELIMOM PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"t0JbMbF7piteMq2s"}
+{"name":"TRILHA DOS EXPLORADORES PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"6tPUYPa9a3E52FIV","sorting":"a","color":"#000000","_id":"t7BwgFn1MHYqXw5q"}
+{"name":"GRANIZO","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"tQHOVFRnASSxFli6"}
+{"name":"CRIZAGOM PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"tRkSN0E45UbfT0Yk"}
+{"name":"RAÇAS GIGANTES","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"tRpcQdgJKGjIV81W"}
+{"_id":"tSEAqj6Qbvgskluz","name":"MAGIAS DE ATAQUE","type":"Item","sort":300000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#0b3300"}
+{"_id":"tYYZwlEYXC3RllmQ","name":"ACADEMIA DE CAVALEIROS","type":"Item","sort":300000,"flags":{},"parent":"PhaPP0zjdh1ko6jN","sorting":"a","color":"#e6d600"}
+{"name":"CRIATURAS CONSTRUIDAS","type":"Actor","sort":null,"flags":{},"parent":"Hvnj30QK6ILeMFbu","sorting":"a","color":"#000000","_id":"vCQU58vJGqhrmH8I"}
+{"name":"TRILHA DOS EXPLORADORES ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"OWUcnXauwIkIwACx","sorting":"a","color":"#000000","_id":"vEiaew5onaWlM0UU"}
+{"name":"COLEGIO NATURISTA PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"fBFbKzOaJJXvFBCA","sorting":"a","color":"#000000","_id":"vMu3WwWMmLOXSDpb"}
+{"name":"ORDEM DE CRIZAGOM","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"vfVjOlXHUYxUYJOk"}
+{"name":"COLEGIO CONHECIMENTO ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"vkeiJjdaO7rXgbCX"}
+{"name":"ARMAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"wKyQ7LxsXT2E5ZU3"}
+{"name":"ATAQUES","type":"Item","sort":null,"flags":{},"parent":"AfPcbRkY9lKebgbq","sorting":"a","color":"#3c2020","_id":"wcb504Xzsp9P2ADg"}
+{"name":"COLÉGIO CONHECIMENTO","type":"Item","sort":null,"flags":{},"parent":"xKlD5aX2LmFcNoM7","sorting":"a","color":"#a1a1a1","_id":"wrYYErR03Rpnid2d"}
+{"name":"PLANDIS ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"x5gFuexENOaQGaXZ"}
+{"name":"BASICA","type":"Item","sort":null,"flags":{},"parent":"3CCIFydo8a9HHOR9","sorting":"a","color":"#333333","_id":"xBFQBjHDJRUzNR0z"}
+{"name":"LENA ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"M0EGVx5WDlKixuqc","sorting":"a","color":"#000000","_id":"xFKBshGrMf8KvV53"}
+{"name":"PpA","type":"Item","sort":null,"flags":{},"parent":"5gpg98nRcT143OoM","sorting":"a","color":"#028a00","_id":"xFhDQvv5OogOv4XZ"}
+{"name":"MAIRA PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"xHwysB8fNzeTwjeK"}
+{"_id":"xKlD5aX2LmFcNoM7","name":"MAGO","type":"Item","sort":200000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#c7c7c7"}
+{"_id":"xSS98D5XkIh9v9my","name":"ACADEMIA DE ARQUEIROS","type":"Item","sort":200000,"flags":{},"parent":"PhaPP0zjdh1ko6jN","sorting":"a","color":"#e6d600"}
+{"name":"IRRADIAR DARDOS","type":"Item","sort":null,"flags":{},"parent":"S2xv9WBCcVgAwDjQ","sorting":"a","color":"#858585","_id":"xusyxRNg5iBdqXJr"}
+{"name":"CONHECIMENTO","type":"Item","sort":null,"flags":{},"parent":"D0ehnILBEW2ffmjE","sorting":"a","color":"#000000","_id":"xx2bU6CaVVuddi1B"}
+{"name":"CAMBU PERDIDAS","type":"Item","sort":null,"flags":{},"parent":"Ak4uVwhSnBPF67QW","sorting":"a","color":"#000000","_id":"yJdC8WpFlXMgg3Az"}
+{"_id":"ypn7N6z66xUt8YTD","name":"SACERDOTE","type":"Item","sort":275000,"flags":{},"parent":"aV4yMDRJFRHLEVHg","sorting":"a","color":"#c7c7c7"}
+{"name":"REFEIÇÕES","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"yrXPelPqMCwNtAqV"}
+{"name":"DROGAS","type":"Item","sort":null,"flags":{},"parent":"V5JoHuRzoeM4rBqm","sorting":"a","color":"#f06800","_id":"z035t3A1KABf9lvk"}
+{"name":"ORDEM DE SEVIDES","type":"Item","sort":null,"flags":{},"parent":"ypn7N6z66xUt8YTD","sorting":"a","color":"#666666","_id":"z4TCuvwmNldvDvyq"}
+{"name":"LADINO","type":"Item","sort":null,"flags":{},"parent":"pyOdKbarOmoCnBeJ","sorting":"a","color":"#e6d600","_id":"z74jV7ewNxinDOiP"}
+{"name":"RESIDENCIAS","type":"Item","sort":null,"flags":{},"parent":"DkuPIdhduBhG9c72","sorting":"a","color":"#a30096","_id":"zwlQosyCNx8pC5mM"}
+{"name":"COLEGIO ALQUIMICO ANCESTRAIS","type":"Item","sort":null,"flags":{},"parent":"PWbiKk1qi6pkK6VN","sorting":"a","color":"#000000","_id":"zyqTvqyxB51WOjDz"}
