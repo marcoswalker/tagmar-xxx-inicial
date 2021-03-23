@@ -9,10 +9,6 @@
   "esmodules": [],
   "dependencies": [
     {
-      "name": "tagmar_rpg",
-      "manifest": "https://raw.githubusercontent.com/marcoswalker/tagmar_rpg/master/system.json"
-    }
-	,{
       "name": "pdfoundry",
       "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
     }
