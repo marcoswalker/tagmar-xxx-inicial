@@ -7,16 +7,6 @@
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
-  "dependencies": [
-    {
-      "name": "pdfoundry",
-      "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
-    }
-	,{
-      "name": "dice-so-nice",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
-    }
-  ],
   "styles": [],
   "packs": [],
   "languages": [],
@@ -30,9 +20,21 @@
   "readme": "",
   "bugs": "",
   "changelog": "",
+  "dependencies": [
+    {
+      "name": "pdfoundry",
+      "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
+    },
+    {
+      "name": "dice-so-nice",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+    }
+  ],
   "background": "",
   "system": "tagmar_rpg",
   "coreVersion": "0.7.9",
-  "systemVersion": "0.4.9",
-  "nextSession": null
+  "systemVersion": "0.5.5",
+  "nextSession": null,
+  "availability": 0,
+  "unavailable": false
 }
