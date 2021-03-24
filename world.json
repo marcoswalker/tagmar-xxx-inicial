@@ -28,6 +28,10 @@
     {
       "name": "dice-so-nice",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+    },
+	{
+      "name": "token-hud-wildcard",
+      "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json"
     }
   ],
   "background": "",
