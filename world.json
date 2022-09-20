@@ -1,0 +1,38 @@
+{
+  "title": "Tagmar Extra Inicial",
+  "description": "Mundo Inicial para Tagmar Extra Oficial no Foundry.",
+  "version": "1.0.1",
+  "url": "https://github.com/marcoswalker/tagmar-xxx-inicial",
+  "manifest": "https://raw.githubusercontent.com/marcoswalker/tagmar-xxx-inicial/master/world.json",
+  "download": "https://codeload.github.com/marcoswalker/tagmar-xxx-inicial/zip/master",
+  "system": "tagmar_rpg",
+  "coreVersion": "10.285",
+  "systemVersion": "2.1.4",
+  "id": "tagmar-xxx-inicial",
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "token-hud-wildcard",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
+        "compatibility": {}
+      },
+	  {
+		  "id": "lib-wrapper",
+		  "type": "module",
+		  "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+		  "compatibility": {}
+	  }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.285"
+  }
+}
